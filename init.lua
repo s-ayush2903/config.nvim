@@ -1,0 +1,1 @@
+require("potnix_nvm")
